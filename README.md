@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amol!
+- Hey 👋, I’m Amol!
 
 
 
