@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol!</h1>
 <h3 align="center">A fresher with "experience" and passionate software developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="coding" width="400" height = "200" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol1211&label=Profile%20views&color=0e75b6&style=flat" alt="amol1211" /> </p>
 
