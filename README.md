@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol!</h1>
-<h3 align="center">Hungry, Humble and Honest Computer Engineering graduate of class 2023 from Savitribai Phule Pune University. Unemployed and agressively looking for full time software developer roles. </h3>
+<h3 align="center">Hungry, Humble, Honest. Computer Engineering graduate (2023) from Savitribai Phule Pune University, actively seeking full-time software developer roles. Eager to explore any opportunities you migh have. Thanks for stopping by!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol1211&label=Profile%20views&color=0e75b6&style=flat" alt="amol1211" /> </p>
 
 
@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Data structure and Algorithms, C++ and JavaScript etc.**
 
-- 📫 How to reach me **shindeamol409@gmail.com**
+- 📫 How to reach me at **shindeamol409@gmail.com**
 
-- 🧑‍💻 Check out **[My Portfolio]**(https://amol-portfolio.onrender.com) to see more of my work and projects.
+- 🧑‍💻 Check out [My Portfolio](https://amol-portfolio.onrender.com) to see more of my work and projects.
 
 ## ✨My LinkedIn & Coding Profiles :
 
