@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data structure and Algorithms, C++ and JavaScript etc.**
 
-- 📫 How to reach me at **shindeamol409@gmail.com**
+- 📫 Reach out to me at **shindeamol409@gmail.com**
 
 - 🧑‍💻 Check out [My Portfolio](https://amol-portfolio.onrender.com) to see more of my work and projects.
 
