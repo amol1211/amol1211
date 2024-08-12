@@ -18,11 +18,7 @@
 <a href="https://auth.geeksforgeeks.org/user/amol1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amol1211" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amol1211&show_icons=true&theme=radical)
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amol1211&theme=react-dark)](https://github.com/amol1211)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amol1211&layout=compact&theme=radical)
 
 
 
