@@ -20,7 +20,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amol1211&show_icons=true&theme=radical)
 
-[![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=amol1211&theme=react-dark)](https://github.com/amol1211)
+[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amol1211&theme=react-dark)](https://github.com/amol1211)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amol1211&layout=compact&theme=radical)
 
