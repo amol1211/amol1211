@@ -9,7 +9,7 @@
 
 - 📫 Reach out to me at **shindeamol409@gmail.com**
 
-- 🧑‍💻 Check out [My Portfolio](https://amol-portfolio.onrender.com) to see more of my work and projects..
+- 🧑‍💻 Check out [My Portfolio](https://amol-portfolio.onrender.com) to see more of my work and projects.
 
 ## ✨My LinkedIn & Coding Profiles :
 
