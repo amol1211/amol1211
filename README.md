@@ -18,4 +18,10 @@
 <a href="https://auth.geeksforgeeks.org/user/amol1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amol1211" height="30" width="40" /></a>
 </p>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amol1211&show_icons=true&theme=radical)
+
+[![Amol's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=amol1211&theme=react-dark)](https://github.com/amol1211)
+
+
+
 
